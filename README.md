@@ -1,2 +1,4 @@
 # hello-world
-just anothe repository hehe
+just another repository
+
+hi, i'm nanda. coffee and cat addict.
